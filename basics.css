@@ -232,13 +232,13 @@ ul li{
     color: rgb(17, 234, 13);
 }
 .github:hover{
-    color: rgb(17, 234, 13);
+    color: #0f0f10!important;
 }
 
 .linkedin:hover{
-    color: rgb(17, 234, 13);
+    color: #0077b5!important;
 }
 
 .twitter:hover{
-    color: rgb(17, 234, 13);
+    color: #0077b5!important;
 }
