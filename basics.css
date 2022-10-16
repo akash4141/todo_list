@@ -12,11 +12,18 @@ body{
   background: linear-gradient(to right, #9cecfb, #e1c7fe);
    
 } 
+#logoImage{
+  height: 50px;
+  width: 50px;
+}
 ::selection{ 
   color: #fff; 
   background: #97bfff; 
 }
-
+nav{
+  display: flex;
+  justify-content: end;
+}
 .title{
   text-align: center;
   background: #c39af1;
@@ -248,6 +255,10 @@ ul li{
     display:ruby-base-container;
     padding: auto;
     margin: 15px;
+    
+}
+.whatsapp,.github,.linkedin,.twitter{
+  color: white;
 }
 .whatsapp:hover{
     color: rgb(17, 234, 13);
