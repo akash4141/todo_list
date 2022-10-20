@@ -11,4 +11,4 @@ add footer nd css design for it
 add js for tempeorary save of website
 
 #issue4:
-make a fully working website of todo list. 
+make sure a fully working website of todo list. 
